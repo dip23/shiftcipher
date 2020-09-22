@@ -1,6 +1,7 @@
 # Shiftcipher
 ## Nama  : Difa Bagasputra Maulana
 ## NPM   : 140810180057
+## Kelas : A / Praktikum B
 
 Enkripsi
 
