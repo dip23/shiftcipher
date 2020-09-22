@@ -6,4 +6,4 @@ Enkripsi
 ![encrypt](https://ibb.co/L8QnXVg)
 
 Dekripsi
-![decrypt](https://ibb.co/xDMbTdw)
+![decrypt](https://i.ibb.co/47jLr3C/Decrypt.png)
